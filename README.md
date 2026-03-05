@@ -45,13 +45,13 @@
 
 ---
 
-## 📈 GitHub Status :
+## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaparthivisishta846-star&theme=dark&show_icons=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=visishtaalaparthi846-star&show_icons=true&theme=tokyonight)
 
-![visishta github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alaparthivisishta846-star&bg_color=050505&color=65d1e6&line=a966a4&point=e543c7&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=visishtaalaparthi846-star&theme=tokyonight)
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visishtaalaparthi846-star&theme=github-dark)
 
 
 ⭐ Live, Learn, Laugh 
